@@ -5,7 +5,7 @@ I developed the Suboxone Treatment Platform, a web application designed to help 
 
  # Live📌 Demo Link (Please check): 
  🔗 https://waqasdemo.netlify.app/
- # Video 📌 Demo Link (Please check): 
+ # Video 📌 Link (Please check): 
  🔗 https://waqasdemo.netlify.app/](https://drive.google.com/file/d/13kknEwtikaHsfSKUe0-cJWGqf9hUMEUU/view?usp=sharing
 
 
@@ -22,7 +22,9 @@ Fully responsive interface built with Tailwind CSS
 #Modern Architecture:
 Built with React for a fast, interactive user experience
 
+
 📂 # Folder Structure
+
 ![Image](https://github.com/user-attachments/assets/e1b26225-aaf0-443d-94cd-911dd155ec84)
 
 # Installation
