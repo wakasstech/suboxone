@@ -1,4 +1,4 @@
-give me updated version with icon like health icon github icon etc 
+
 
 # Suboxone Treatment Platform (Mern Task Assessment)
 
@@ -21,7 +21,7 @@ Fully responsive interface built with Tailwind CSS
 Built with React for a fast, interactive user experience
 
 # Folder Structure
-![Image](https://github.com/user-attachments/assets/e1b26225-aaf0-443d-94cd-911dd155ec84)
+
 
 # Installation
 Prerequisites
