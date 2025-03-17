@@ -35,7 +35,9 @@ npm (v6 or higher)
 # Steps
 Clone the repository:
 git clone https://github.com/your-username/treatment-platform.git](https://github.com/wakasstech/suboxone.git
+
 cd treatment-platform
+
 npm install
 
 # Running the Application
