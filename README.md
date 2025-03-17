@@ -1,17 +1,68 @@
-<<<<<<< HEAD
-# suboxone
-I developed the Suboxone Treatment Platform, a web application designed to help healthcare providers efficiently manage and monitor patients undergoing Suboxone treatment for opioid use disorder (OUD). This platform integrates mapping functionality, patient management, and treatment tracking into a single, user-friendly interface.
-=======
-# React + Vite
+give me updated version with icon like health icon github icon etc 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Suboxone Treatment Platform (Mern Task Assessment)
 
-Currently, two official plugins are available:
+I developed the Suboxone Treatment Platform, a web application designed to help healthcare providers efficiently manage and monitor patients undergoing Suboxone treatment for opioid use disorder (OUD). This platform integrates mapping functionality, patient management, and treatment tracking into a single, user-friendly interface. This project was part of my assessment, which I completed for submission on GitHub.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Live Demo Link (Please check): 
+https://waqasdemo.netlify.app/
 
-## Expanding the ESLint configuration
+# Features
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
->>>>>>> 1e85306 (suboxone-platform)
+# Interactive Map: 
+Utilizes react-simple-maps to visualize patient locations and treatment centers
+# Patient Management: 
+Track patient progress, appointments, and treatment plans
+# Treatment Monitoring: 
+Monitor medication adherence and treatment outcomes
+# Responsive Design: 
+Fully responsive interface built with Tailwind CSS
+# Modern Architecture:
+Built with React for a fast, interactive user experience
+
+# Folder Structure
+![Image](https://github.com/user-attachments/assets/e1b26225-aaf0-443d-94cd-911dd155ec84)
+
+# Installation
+Prerequisites
+Node.js (v14 or higher)
+npm (v6 or higher)
+
+# Steps
+Clone the repository:
+
+git clone https://github.com/your-username/treatment-platform.git
+
+cd treatment-platform
+
+npm install
+
+# Running the Application
+npm run dev
+
+# Key Technologies Used
+
+# React: 
+Frontend library for building user interfaces
+
+# Tailwind CSS: 
+Utility-first CSS framework for styling
+
+# react-simple-maps: 
+React component library for creating interactive maps
+
+#Vite: 
+Next-generation frontend tooling for faster development and optimized builds
+
+# Component Structure
+The application uses a modular component structure:
+
+# Layout Components: 
+Provide the overall structure of the application
+# Page Components: 
+Represent different pages or views of the application
+# Reusable Components: 
+Smaller, reusable parts like buttons, forms, and cards
+
+# Contact
++923120518439 (drop a message on whatsapp or call)
